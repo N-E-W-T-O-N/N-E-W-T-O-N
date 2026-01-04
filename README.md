@@ -1,4 +1,4 @@
-<!-- 👋 Hi, I’m @N-E-W-T-O-N -->
+👋 Hi, I’m @N-E-W-T-O-N
 
 <!-- https://simpleicons.org/?q=microsoftazure -->
 <!-- https://si-badge-maker.heyfe.org/en -->
